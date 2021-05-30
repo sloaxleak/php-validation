@@ -1,4 +1,4 @@
-# A PHP 5.3 Class for Easy Form Validation
+# A PHP for Easy Form Validation
 
 This class follows Zend Framework naming conventions for easy drop-in as a substitute to Zend_Validation.
 If you opt out of using the bulky Zend_Form on your projects, you might choose to use this for quick and painless
